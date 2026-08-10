@@ -21,6 +21,7 @@ Solutions for Leetcode
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/berajeel/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/berajeel/leetcode/tree/master/0344-reverse-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/berajeel/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +59,5 @@ Solutions for Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/berajeel/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/berajeel/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
